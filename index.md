@@ -1,11 +1,19 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'A Brand-New Initiative for Frozen Fanworks'
+heading: Get involved
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Do you have skills or ideas *outside* the traditions of fanart and fanfiction?
+There's a whole world of unexplored Original Content waiting to be made.
+
+Software, animation, podcasting, games, community development, videography:
+whatever your talents, we want to help you exercise them for Arendelle!
+
+If you're interested in collaborating with like-minded people on the projects you care about,
+introduce yourself! Email us at [hello@arendelle.digital](mailto:hello@arendelle.digital).
