@@ -2,7 +2,7 @@
 layout: post
 title: Snowchan
 description: The Frozen imageboard
-image: assets/images/snowchan.png
+image: assets/images/snowchan.jpg
 nav-menu: true
 ---
 

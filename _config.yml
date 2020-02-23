@@ -3,7 +3,7 @@ title: Arendelle
 subtitle: Digital
 description: Working together to create great things
 baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://www.arendelle.digital # the base hostname & protocol for your site
 author:
 
 # homepage tiles
@@ -26,6 +26,9 @@ twitter_url: https://twitter.com/Arendelle_Dgtl
 
 # build settings
 markdown: kramdown
+exclude:
+  - .idea
+  - .git
 
 sass:
   style: compressed

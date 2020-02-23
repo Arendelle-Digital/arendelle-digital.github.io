@@ -13,6 +13,7 @@ comically awful, but it just wouldn't be right to change it.
 
 You can use the site to quickly make gifs from the movies and trailers.
 
-Try it out: [frozengifs.com](https://frozengifs.com)
+Try it out: [frozengifs.com](https://frozengifs.com){:target="_blank"}
 
-You can find usage instructions and the bug tracker [here](https://github.com/tfwyouloveher/ofgg-v2-about).
+You can find usage instructions and the bug tracker
+[here](https://github.com/tfwyouloveher/ofgg-v2-about){:target="_blank"}.
