@@ -25,7 +25,4 @@ performance, leaving us with an incomplete song.
 The solution? Splicing in the intro recorded for *Forever (Reprise)* by the original cast.
 Now we have a full song!
 
-[Link to video](https://youtu.be/8-O_DQJ1Wwo){:target="_blank"}
-
-The odds are high that Disney will take that video down eventually. When they do, it will
-be re-uploaded here, so bookmark this page!
+{% include video.html src="/assets/videos/cantloseyou.mp4" poster="/assets/images/cant-lose-you.jpg" %}
